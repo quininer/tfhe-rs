@@ -1,0 +1,12 @@
+[package]
+name = "tfhe-sys"
+version = "0.1.0"
+authors = ["quininer <quininer@live.com>"]
+build = "build.rs"
+
+[dependencies]
+libc = "*"
+
+[build-dependencies]
+bindgen = "*"
+cmake = "*"

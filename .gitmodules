@@ -1,0 +1,3 @@
+[submodule "tfhe-sys/tfhe"]
+	path = tfhe-sys/tfhe
+	url = https://github.com/tfhe/tfhe
